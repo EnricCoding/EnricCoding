@@ -1,6 +1,6 @@
 - 👋 A student of Software Engineering from Spain, Barcelona. 20 years old.  
 - 👀  Interested in Software, builing apps, and of this kind of things. Apassionate of crypto world. And how the world of crypto and the world of software go hand to hand.
-- Python, Angular, Javascript
+- Python, Angular, Javascript, PHP
 - 📫 You can contact me for email: enricrbt@gmail.com. 
 
 <!---
