@@ -1,4 +1,4 @@
-- 👋 Barcelona. 22 years old. Programming since 2018 mainly frontend.
+- 👋 Barcelona. 23 years old. Programming since 2018 mainly frontend.
 - 👀  Interested in Software, builing apps and projects.
 - Python, Angular, React, Javascript, PHP, Ionic
 - 📫 You can contact me for email: enricpaginasweb@gmail.com. 
