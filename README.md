@@ -1,4 +1,2 @@
-- 👋 Barcelona. 23 years old. Programming since 2018 mainly frontend.
-- 👀  Interested in Software, builing apps and projects.
-- Python, Angular, React, Javascript, PHP, Ionic
-- 📫 You can contact me for email: enricpaginasweb@gmail.com. 
+Hello, I'm Enric, a Frontend Engineer passionate about Software and IT. 
+📫 You can contact me for email: enricpaginasweb@gmail.com. 
