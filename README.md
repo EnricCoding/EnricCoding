@@ -8,7 +8,7 @@
 
 ### About Me
 <p align="center">
-  My main stack is <strong>Angular</strong>, <strong>Ionic</strong>, <strong>React</strong>, and <strong>Next.js</strong>.<br/>
+  My main stack is <strong>Angular</strong>, <strong>Ionic</strong>, <strong>React/React Native</strong>, and <strong>Next.js</strong>.<br/>
   Currently diving into <strong>Blockchain & Web3</strong>, focusing on <strong>Solidity (smart contracts)</strong> and <strong>Next.js (dApp frontend)</strong>.<br/>
   Focused on <strong>clean code, scalability, and great UX</strong>.
 </p>
